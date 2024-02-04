@@ -21,3 +21,9 @@ additional notes and tips
 - when parsing, you should rid any duplicate notes
 - - this only includes notes that start at the same exact time and lie in the exact same column
   - if there is a noodle strand, the end-time should not be checked because only the spawn time matters
+
+# libraries
+
+at the moment, there are no libraries for parsing `.sfvc` files; however, there is a python library planned as well as a Godot add-on
+
+for now, you can refer to the [example parser](/example/example.py) (only 24 lines!) as a rough outline of how parsing should work
