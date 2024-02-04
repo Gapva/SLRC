@@ -1,4 +1,4 @@
-![sfvcWide](https://github.com/Gapva/SFVC/assets/90116898/a7de7245-17e2-4110-b98a-f2e9d05a6943)
+![sfvcWide](https://github.com/Gapva/SFVC/assets/90116898/7b552e79-f213-471a-ac18-ba435e7784b2)
 
 # what is it?
 
