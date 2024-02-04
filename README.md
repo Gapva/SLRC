@@ -1,3 +1,5 @@
+![sfvcWide](https://github.com/Gapva/SFVC/assets/90116898/a7de7245-17e2-4110-b98a-f2e9d05a6943)
+
 # what is it?
 
 SFVC (`.sfvc`) stands for *Simplified Four-Lane (4K) Vertically-Scrolling-Rhythm-Game (VSRG) Chart*
