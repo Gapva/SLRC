@@ -18,6 +18,8 @@ additional notes and tips
 - in the second image, a Double Note is defined, but it is not limited to just doubles
 - - you may place up to four notes of any kind in their respective columns
 - when parsing, you should always case-convert the entire file to lowercase
+- it's worth noting that the tempo parameter should have no influence on the map, and it is only a statistic
+- - it's part of the format because it's important information
 - when parsing, you should rid any duplicate notes
 - - this only includes notes that start at the same exact time and lie in the exact same column
   - if there is a noodle strand, the end-time should not be checked because only the spawn time matters
