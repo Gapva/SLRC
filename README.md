@@ -24,6 +24,6 @@ additional notes and tips
 
 # libraries
 
-at the moment, there are no libraries for parsing `.sfvc` files; however, there is a python library planned as well as a Godot add-on
+at the moment, there are no libraries for parsing `.sfvc` files; however, there is a Python library planned as well as a Godot add-on
 
 for now, you can refer to the [example parser](/example/example.py) (only 24 lines!) as a rough outline of how parsing should work
