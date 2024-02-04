@@ -1,5 +1,5 @@
 with open("example.sfvc", "r") as chartfile:
-    chartprocessed = chartfile.read().splitlines()
+    chartprocessed = list(dict.fromkeys([line.lower() for line in chartfile.read().splitlines()])) # remove dupes
 
 configidx = chartprocessed.index('-config')
 chartidx = chartprocessed.index('-chart')
@@ -13,7 +13,7 @@ tempo = int(configkeys[1].split("_")[1])
 print(f"CHART INFO\noffset\t{offset}ms\ntempo\t{tempo}bpm\n")
 print("CHART NOTES")
 for note in range(len(chartnotes)):
-    notetype = chartnotes[note].split("_")[0].lower()
+    notetype = chartnotes[note].split("_")[0]
     noteinfo = chartnotes[note].split("_")[1].split(":")
     notecol = int(noteinfo[0])
     notetiming = [int(timing) for timing in noteinfo[1].split("-")]
