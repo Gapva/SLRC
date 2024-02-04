@@ -4,7 +4,7 @@
 
 SLRC (`.slrc`) stands for *Simplified Lane-based Rhythm Game Chart*
 
-it is a file format with a simple goal of allowing easy parsing for 4K VSRG charts, and it is intended to be both readable and editable by humans
+it is a file format with a simple goal of allowing easy parsing for lane-based rhythm game charts, and it is intended to be both readable and editable by humans
 
 # docs
 
