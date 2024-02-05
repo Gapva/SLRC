@@ -10,9 +10,9 @@ it is a file format with a simple goal of allowing easy parsing for lane-based r
 
 below, an example `.slrc` file is shown, along with helpful annotations that describe each portion of the file in its entirety
 
-![image](https://github.com/Gapva/SFVC/assets/90116898/fffb12e8-799b-4bf0-a867-262e301cb186)
-![image](https://github.com/Gapva/SFVC/assets/90116898/a272c7aa-3a77-4102-b47e-a5d19f926e57)
-![image](https://github.com/Gapva/SFVC/assets/90116898/ab4092de-30bf-4dab-bb9f-a487cf34d641)
+![image](https://github.com/Gapva/SLRC/assets/90116898/e2797768-9724-4315-9593-3c9650849820)
+![image](https://github.com/Gapva/SLRC/assets/90116898/694a23b6-fc5e-482b-8551-764b54e639b1)
+![image](https://github.com/Gapva/SLRC/assets/90116898/8658f65b-2510-4183-9637-ba9024af0053)
 
 additional notes and tips
 - obviously, this is not limited to just four columns
